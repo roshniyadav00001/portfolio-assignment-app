@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-assignment-app/static/css/main.9b6d4d3f.css",
+    "main.js": "/portfolio-assignment-app/static/js/main.1dd61d1e.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/portfolio-assignment-app/static/js/453.f4fbaa6d.chunk.js",
+    "index.html": "/portfolio-assignment-app/index.html",
+    "main.9b6d4d3f.css.map": "/portfolio-assignment-app/static/css/main.9b6d4d3f.css.map",
+    "main.1dd61d1e.js.map": "/portfolio-assignment-app/static/js/main.1dd61d1e.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/portfolio-assignment-app/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6d4d3f.css",
+    "static/js/main.1dd61d1e.js"
+  ]
+}
